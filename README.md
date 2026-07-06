@@ -27,11 +27,8 @@ DSA/
 ├── Arrays/
 ├── Strings/
 ├── Linked List/
-├── Stack/
-├── Queue/
-├── Trees/
+├── Stack and Queue/
 ├── Binary Search Trees/
-├── Binary Trees/
 ├── Heaps/
 ├── Hashing/
 ├── Binary Search/
@@ -75,7 +72,6 @@ Topics covered include:
 * Binary Search
 * Sliding Window
 * Two Pointers
-* Trees
 * Binary Search Trees
 * Heaps
 * Graphs
