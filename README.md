@@ -108,6 +108,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Dynamic Programming
 |  |
@@ -125,4 +126,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
