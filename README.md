@@ -157,4 +157,16 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
