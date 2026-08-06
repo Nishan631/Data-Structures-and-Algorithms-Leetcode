@@ -122,6 +122,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
