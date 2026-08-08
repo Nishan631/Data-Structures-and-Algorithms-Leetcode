@@ -114,10 +114,12 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Linked List
 |  |
