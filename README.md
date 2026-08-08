@@ -112,6 +112,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Dynamic Programming
@@ -147,6 +148,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
 ## String
 |  |
