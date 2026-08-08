@@ -108,6 +108,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
@@ -169,4 +170,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
