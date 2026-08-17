@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
