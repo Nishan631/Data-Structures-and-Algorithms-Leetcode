@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Greedy
 |  |
 | ------- |
