@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0707-design-linked-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -192,4 +193,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
