@@ -151,12 +151,14 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
