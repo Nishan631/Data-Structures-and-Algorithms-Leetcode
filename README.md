@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -212,6 +213,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
