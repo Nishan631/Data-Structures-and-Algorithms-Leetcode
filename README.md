@@ -128,6 +128,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
@@ -191,6 +194,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
