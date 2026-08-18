@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Greedy
 |  |
@@ -211,6 +213,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -259,4 +262,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
