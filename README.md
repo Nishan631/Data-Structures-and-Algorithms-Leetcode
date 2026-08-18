@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
