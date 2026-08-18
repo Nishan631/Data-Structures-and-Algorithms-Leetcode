@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Design
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
