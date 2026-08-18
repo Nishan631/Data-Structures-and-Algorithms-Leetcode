@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -219,4 +220,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
