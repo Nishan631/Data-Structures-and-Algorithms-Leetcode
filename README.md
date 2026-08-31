@@ -223,6 +223,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -274,4 +276,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
