@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -295,4 +298,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0130-surrounded-regions) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
