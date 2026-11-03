@@ -211,6 +211,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Happy Coding! 🚀
 | [0072-edit-distance](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
 | ------- |
