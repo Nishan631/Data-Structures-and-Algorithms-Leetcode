@@ -320,4 +320,8 @@ Happy Coding! 🚀
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
