@@ -139,6 +139,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0063-unique-paths-ii) |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
@@ -230,6 +232,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0072-edit-distance) |
