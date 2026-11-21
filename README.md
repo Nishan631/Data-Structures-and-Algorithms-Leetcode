@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -194,6 +195,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Happy Coding! 🚀
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Nishan631/Data-Structures-and-Algorithms-Leetcode/tree/master/0541-reverse-string-ii) |
